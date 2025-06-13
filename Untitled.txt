@@ -1,0 +1,100 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kidzoo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #eef8ff;
+      margin: 0;
+      padding: 0;
+    }
+
+    .header {
+      background-color: #2a75c1;
+      color: white;
+      text-align: center;
+      padding: 20px 0;
+      font-size: 32px;
+      font-weight: bold;
+    }
+
+    .container {
+      background-color: white;
+      max-width: 600px;
+      margin: 30px auto;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    h2 {
+      color: #2a75c1;
+      font-size: 22px;
+      margin-bottom: 10px;
+    }
+
+    p, ul {
+      font-size: 16px;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    ul {
+      list-style-type: disc;
+      padding-left: 20px;
+    }
+
+    .highlight {
+      background-color: #fff3b0;
+      padding: 10px 15px;
+      margin: 20px 0;
+      font-weight: bold;
+      color: #b84a00;
+      font-size: 18px;
+      text-align: center;
+      border-radius: 5px;
+    }
+
+    .footer {
+      font-size: 14px;
+      color: #555;
+      margin-top: 20px;
+      text-align: left;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">Kidzoo</div>
+
+  <div class="container">
+    <h2>About the Trip</h2>
+    <p>
+      Our campers will enjoy an unforgettable day of creativity and connection. Our campers will get the chance to unleash their inner artist in wall painting, bake delicious bread, and enjoy a relaxing donkey cart ride. They will also craft their own unique soaps and personalize a bag with stencils. It’s the perfect day to bond with friends, learn new skills, and take home your awesome handmade creations!
+    </p>
+
+    <h2>Instructions</h2>
+    <ul>
+      <li>Camp T-shirt and comfortable shoes</li>
+      <li>Water and snacks</li>
+      <li>Sun block, as all activities are outdoors</li>
+    </ul>
+
+    <div class="highlight">
+      Get Ready for a Day of Fun and Creativity!
+    </div>
+
+    <div class="footer">
+      For any inquiries or concerns, please contact your trip coordinator <strong>Mrs. Reham Mohamed</strong><br>
+      📧 Email: gss56.rehammohamed@gmail.com<br>
+      📱 Phone/WhatsApp: 01278007779
+    </div>
+  </div>
+</body>
+</html>
+
+
+
